@@ -3,8 +3,8 @@ This is the final deliverable for our MIT Capstone project in collaboration with
 
 In this repository you can find 2 files:
 
-# Script.py:
+## Script.py:
 This is the script to run the matching from the terminal. 
 
-# Clean_functions.ipynb:
+## Clean_functions.ipynb:
 This file is a summary of all the functions used for the project.
