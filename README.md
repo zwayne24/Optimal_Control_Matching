@@ -1,5 +1,5 @@
 # Optimal_Control_Matching
-This is the final deliverable for our MIT Capstone project in collaboration with TEA. We worked on a flexible script to evaluate treatment effects of observational studies. Since we don't have a random treatment population we built a matching algorithm to match similar treatment to control classes to derive the treatment effects.
+This is the final deliverable for our MIT Capstone project in collaboration with the Texas Education Agency (TEA). We worked on a flexible script to evaluate treatment effects of observational studies. For TEA, they want to be able to appropriately measure the causal impact that their new educational intiatives have on student success. Since we don't have a random treatment population, we built a matching algorithm to match similar treatment to control classes to derive the treatment effects.
 
 In this repository you can find 2 files:
 
